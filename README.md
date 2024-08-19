@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huzaifasheer
+- 👋 Hi, I’m Muhammad Huzaifa
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Futter.
 - 💞️ I’m looking to collaborate on Projects.
